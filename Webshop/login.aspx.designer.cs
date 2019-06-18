@@ -10,7 +10,7 @@
 namespace GIP_OpdrachtSW_ArneVandoorslaer_NickRoosen {
     
     
-    public partial class Toevoegen {
+    public partial class Login {
         
         /// <summary>
         /// form1 control.
@@ -22,75 +22,57 @@ namespace GIP_OpdrachtSW_ArneVandoorslaer_NickRoosen {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// imgFoto control.
+        /// ScriptManager1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image imgFoto;
+        protected global::System.Web.UI.ScriptManager ScriptManager1;
         
         /// <summary>
-        /// lblArtNr control.
+        /// txtGebrNaam control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblArtNr;
+        protected global::System.Web.UI.WebControls.TextBox txtGebrNaam;
         
         /// <summary>
-        /// lblNaam control.
+        /// txtWachtwoord control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblNaam;
+        protected global::System.Web.UI.WebControls.TextBox txtWachtwoord;
         
         /// <summary>
-        /// lblPrijs control.
+        /// btnLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblPrijs;
+        protected global::System.Web.UI.WebControls.Button btnLogin;
         
         /// <summary>
-        /// lblVoorraad control.
+        /// UpdatePanel1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblVoorraad;
+        protected global::System.Web.UI.UpdatePanel UpdatePanel1;
         
         /// <summary>
-        /// txtAantal control.
+        /// lblUitvoer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtAantal;
-        
-        /// <summary>
-        /// txtToevoegen control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button txtToevoegen;
-        
-        /// <summary>
-        /// lblFout control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblFout;
+        protected global::System.Web.UI.WebControls.Label lblUitvoer;
     }
 }

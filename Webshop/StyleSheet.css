@@ -1,0 +1,62 @@
+﻿body{
+    background-color: #ffffff;
+    margin-left:0px;
+}
+.label{
+    width: 75px;
+}
+.toevoegFoto{
+    height: 325px;
+    width: 450px;
+}
+.textboxLogin{
+    width: 275px;
+}
+.textboxToevoegen{
+    width: 50px;
+}
+.gridGetal{
+    Width: 60px;
+    text-align: Center;
+    Vertical-Align: Middle;
+}
+.gridFoto{
+    height: 70px;
+    width: 100px;
+}
+.gridValuta{
+    width: 100px;
+    text-align: Center;
+    Vertical-Align: Middle;
+}
+.gridNaam{
+    width: 200px;
+    text-align: left;
+    Vertical-Align: Middle;
+}
+.gridDelete{
+    width: 40px;
+    height: 40px;
+    text-align: Center;
+    Vertical-Align: Middle;
+}
+#page-wrap {
+     padding-top: 64px;
+     width: 616px;
+     margin: 0 auto;
+     text-align: center;
+}
+.align{
+    text-align: Left;
+}
+.toevoegtabel {
+    width: 697px;
+    height: 350px;
+}
+.toevoegCel{
+    text-align: left; 
+    vertical-align: top;
+}
+.WinkelmandButton{
+    width: 200px;
+}       

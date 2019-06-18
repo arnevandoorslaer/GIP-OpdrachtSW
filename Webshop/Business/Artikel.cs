@@ -5,7 +5,6 @@ using System.Web;
 
 namespace GIP_OpdrachtSW_ArneVandoorslaer_NickRoosen.Business
 {
-    //Dit is een object artikel dat gebruikt wordt om artikelen op te halen en door te sturen.
     public class Artikel
     {
         private int _artnr;

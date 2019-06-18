@@ -10,7 +10,7 @@
 namespace GIP_OpdrachtSW_ArneVandoorslaer_NickRoosen {
     
     
-    public partial class Bestelbevestiging {
+    public partial class _default {
         
         /// <summary>
         /// form1 control.
@@ -22,48 +22,30 @@ namespace GIP_OpdrachtSW_ArneVandoorslaer_NickRoosen {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Label1 control.
+        /// lbAfmelden control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.LinkButton lbAfmelden;
         
         /// <summary>
-        /// Label2 control.
+        /// gvCatalogus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.GridView gvCatalogus;
         
         /// <summary>
-        /// Label3 control.
+        /// btnInhoud control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
-        
-        /// <summary>
-        /// Label4 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
-        
-        /// <summary>
-        /// btnTerug control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnTerug;
+        protected global::System.Web.UI.WebControls.Button btnInhoud;
     }
 }
